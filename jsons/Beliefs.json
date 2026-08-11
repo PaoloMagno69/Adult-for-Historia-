@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dea della Lussuria",
+        "type": "Pantheon",
+		"uniques": ["[+2 Happiness] [in cities following this religion] <in cities with at least [3] [Population]>"]
+	},
+	{
+        "name": "Rituali Orgiastici",
+        "type": "Follower",
+        "uniques": ["[+4 Faith] from every [Palazzo del Piacere]"]
+    },
+	{
+        "name": "Culto della Fica",
+        "type": "Founder",
+        "uniques": ["[+5 Culture] from every [2] global followers [in foreign cities]"]
+    },
+	{
+        "name": "Principesse Ninfomani",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Drama and Poetry]>"]
+    }
+]

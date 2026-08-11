@@ -1,0 +1,117 @@
+[
+	 { 
+		"name": "Grande Tempio del Piacere di Ele",
+        "uniqueTo": "Nymphomanic Empire",
+        "isWonder": true,
+        "requiredTech": "Pornografia",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
+        },
+	{
+		"name": "Palazzo del Piacere",
+		"isNationalWonder": true,
+		"production": 1,
+		"happiness": 3,
+		"faith": 2,
+		"culture": 2,
+		"gold": 2,
+		"cost": 1,
+		"replaces": "Palace",
+		"uniqueTo": "Nymphomanic Empire",
+		"uniques": ["Indicates the capital city"]
+	},
+	  { 
+		"name": "Grande Tempio della Fica di Ele",
+        "uniqueTo": "Nymphomanic Empire",
+        "isWonder": true,
+        "requiredTech": "Pornografia",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
+        },
+	  { 
+		"name": "Grande Tempio del Culo di Ele",
+        "uniqueTo": "Nymphomanic Empire",
+        "isWonder": true,
+        "requiredTech": "Pornografia",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
+        }, 
+	{
+		"name": "Studio di film per adulti",
+		"production": 2,
+		"happiness": 1,
+		"faith": 1,
+		"culture": 2,
+		"gold": 3,
+		"cost": 250,
+		"requiredTech": "Radio"
+	},
+	{
+		"name": "Quartiere a luci rosse",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 400,
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Colonia nudista",
+		"happiness": 3,
+		"faith": 1,
+		"culture": 1,
+		"gold": 1,
+		"cost": 200,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Salone delle Fantasie",
+		"production": 1,
+		"happiness": 3,
+		"faith": 1,
+		"culture": 2,
+		"gold": 3,
+		"cost": 250,
+		"requiredTech": "Acoustics"
+	},
+	{
+		"name": "Sensual Spa",
+		"production": 1,
+		"happiness": 3,
+		"faith": 1,
+		"culture": 1,
+		"gold": 2,
+		"cost": 225,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Bordello di lusso",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 250,
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Erotic Art Gallery",
+		"production": 1,
+		"happiness": 2,
+		"faith": 1,
+		"culture": 3,
+		"gold": 2,
+		"cost": 350,
+		"requiredTech": "Drama and Poetry"
+	},
+]

@@ -1,0 +1,292 @@
+[
+/* Unità plus */
+	{
+    "name": "Eleonora di Troia", /* Eleonora di Troia, dona piacere */ /* Immagine DA IMPOSTARE */
+		"imageScale": 1.2,
+    "unitType": "Civilian",
+    "uniqueTo": "Nymphomanic Empire",
+    "cost": 1,
+	"requiredTech": "Pornografia",
+    "movement": 2,
+    "strength": 0,
+    "actions": [],
+    "uniques": [
+      "Unbuildable by other Civilizations",
+      "Limited to [1] per Civilization",
+      "When this unit is present, player gains +7 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"
+       ]
+       },
+	{
+		"name": "Sacerdotessa Nora", /* Sacerdotessa Nora, crea 7 templi x fede */ /* Immagine DA IMPOSTARE */
+		"imageScale": 1.3,
+		"unitType": "Civilian",
+		  "uniqueTo": "Nymphomanic Empire",
+    "cost": 1.2,
+	"requiredTech": "Pornografia",
+    "movement": 2,
+    "strength": 0,
+		"uniques": [
+			 "Limited to [1] per Civilization",
+			 "Can instantly construct a [Tempio della Fica] improvement <[7] times> <after which this unit is consumed>",
+			 "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"
+       ]
+	    },
+{
+		"name": "Ele Amazzone", /* Immagine Roal DA IMPOSTARE */
+		"imageScale": 2.5,
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+	     "rangedStrength": 10,
+		"cost": 1,
+	"requiredTech": "Pornografia",
+		"uniques": [
+			"[+20]% Strength bonus for [Military] units within [2] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [1] per Civilization",
+			"[+100]% XP gained from combat",
+			"Heals [25] damage if it kills a unit",
+			"[+50]% Strength <for every [Era number]>",
+			"[+25]% Strength <starting from the [Modern era]>",
+			"[+25]% Strength <starting from the [Atomic era]>",
+			"[+25]% Strength <starting from the [Information era]>",
+			"[+25]% Strength <starting from the [Future era]>",
+			"[+1] Movement <starting from the [Renaissance era]>",
+			"[+1] Movement <starting from the [Modern era]>",
+			"[+1] Movement <starting from the [Information era]>",
+			"Cost increases by [50] when built",
+			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
+			"Gain [-50] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-50] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
+		],
+		"attackSound": "metalhit"
+	},	
+   {
+		"name": "Pompinare",
+		   "imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 10,
+		"requiredTech": "Pornografia",
+		"uniques": [
+            "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"],
+		"movement": 2
+	   },
+ {
+		"name": "Culetto d'oro",
+		   "imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 10,
+		"requiredTech": "Pornografia",
+		"uniques": [
+            "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"],
+		"movement": 2
+	   },
+ {
+		"name": "Gran puttana",
+		   "imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 10,
+		"requiredTech": "Pornografia",
+		"uniques": [
+            "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"],
+		"movement": 2
+	   },
+	 {
+		"name": "Mignotte",
+		   "imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 10,
+		"requiredTech": "Pornografia",
+		"uniques": [
+            "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"],
+		"movement": 2
+	   },
+	 {
+		"name": "Schiave sessuali",
+		   "imageScale": 1,
+		"unitType": "Civilian",
+		"cost": 10,
+		"requiredTech": "Pornografia",
+		"uniques": [
+            "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
+      "Can be captured (like a Settler)"],
+		"movement": 2
+	   },
+	{
+		"name": "Nympho Worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"replaces": "Worker",
+		"cost": 70,
+	},
+	{
+		"name": "Nympho Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Settler",
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Nympho Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Scout",
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Nympho Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nympho Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Warrior",
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Nympho Spearwoman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
+		"name": "Nympho Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Nympho Spearwoman",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Nympho Workboat",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"replaces": "Work Boats",
+		"uniqueTo": "Nymphomanic Empire",
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
+	{
+		"name": "Nympho Harpoon",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	},
+	{
+		"name": "Nympho Rider",
+		"unitType": "Mounted",
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Nympho Warboat",
+		"unitType": "Melee Water",
+		"replaces": "Trireme",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Nympho Whoreboat",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nympho Whoreboat",
+		"unitType": "Melee Water",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 4,
+		"strength": 15,
+		"cost": 70,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nympho Composite Archer",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+]
