@@ -10,7 +10,7 @@
             "Automatically built in all cities where it is buildable"],
 		"quote": "In questo luogo sacro, la lussuria si è fatta Donna ed è apparsa nel mondo Elena di Troia per donare il piacere a chi sarà in grado di coglierla."
         },
-	{
+{
 		"name": "Palazzo del Piacere",
 		"isNationalWonder": true,
 		"production": 1,
@@ -21,10 +21,13 @@
 		"cost": 1,
 		"replaces": "Palace",
 		"uniqueTo": "Nymphomanic Empire",
-		"uniques": ["Indicates the capital city", "[-90]% [Food]",
-        "[-100]% [Gold]",
-        "[-90]% [Culture]"]
-	},
+		"uniques": [
+			"Indicates the capital city",
+			"[-90]% [Food]",
+			"[-100]% [Gold]",
+			"[-90]% [Culture]"
+		]
+	}
 	  { 
 		"name": "Grande Tempio della Fica di Ele",
         "uniqueTo": "Nymphomanic Empire",
