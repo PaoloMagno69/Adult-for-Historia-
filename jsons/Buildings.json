@@ -21,7 +21,9 @@
 		"cost": 1,
 		"replaces": "Palace",
 		"uniqueTo": "Nymphomanic Empire",
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Indicates the capital city", "[-90]% [Food]",
+        "[-100]% [Gold]",
+        "[-90]% [Culture]"]]
 	},
 	  { 
 		"name": "Grande Tempio della Fica di Ele",
